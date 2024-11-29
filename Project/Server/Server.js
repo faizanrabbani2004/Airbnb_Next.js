@@ -65,7 +65,3 @@ app.post('/api/bookings', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is on http://localhost:${PORT}`);
 });
-
-{
-
-}
